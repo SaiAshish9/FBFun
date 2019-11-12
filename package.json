@@ -1,0 +1,29 @@
+{
+  "name": "fbfun",
+  "version": "1.0.0",
+  "description": "In this app i'm trying to make effective use of nodejs socket.io package and ajax calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "saiashish",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SaiAshish9/FBFun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SaiAshish9/FBFun/issues"
+  },
+  "homepage": "https://github.com/SaiAshish9/FBFun#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dependable": "^1.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-promise-router": "^3.0.3",
+    "lodash": "^4.17.15"
+  }
+}
